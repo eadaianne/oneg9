@@ -17,5 +17,5 @@ Mensurando a aprendizagem:
 1. Quanto estou satisfeito com o processo de aprendizagem?
 2. Quanto estou conseguindo lembrar o que aprendo?
 3. Quanto estou conseguindo aplicar o que aprendo?
-4. Quanto estou (ou pederei em breve) gerando resultados?
+4. Quanto estou (ou poderei em breve) gerando resultados?
 
