@@ -58,7 +58,7 @@ AQUILO QUE O MUNDO PRECISA:
 > Sua forma de aprender é abstrata e ativa. <br>
 
 > Você aprende melhor pensando e realizando. Combina o gosto de colocar “a mão na massa” com aspectos teóricos. Gosta de realizar atividades com indicações sequenciais detalhadas (como aquelas dos manuais de operação de aparelhos), solucionar problemas específicos e testar hipóteses (tentativa e erro). <br> <br> 
-> Tem habilidades em encontrar aplicações práticas para ideias e teorias. Pessoas desse estilo possuem poucas habilidades sociais e intrapessoais, preferindo ambientes de aprendizagem mais tranquilos (ex.: gosta de trabalha sozinho realizando tarefas técnicas sem se relacionarem com outras pessoas). Parecem se sair melhor em situações nas quais existe uma única resposta ou solução correta para cada pergunta ou problema. Não tem dificuldades ao experimentar inovações para solucionar problemas práticos. <br> <br>
+> Tem habilidades em encontrar aplicações práticas para ideias e teorias. Pessoas desse estilo possuem poucas habilidades sociais e intrapessoais, preferindo ambientes de aprendizagem mais tranquilos (ex.: gosta de trabalhar sozinho realizando tarefas técnicas sem se relacionarem com outras pessoas). Parecem se sair melhor em situações nas quais existe uma única resposta ou solução correta para cada pergunta ou problema. Não tem dificuldades ao experimentar inovações para solucionar problemas práticos. <br> <br>
 
 > Esse estilo também é conhecido como PRAGMÁTICO.
 ---
