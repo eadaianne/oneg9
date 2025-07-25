@@ -17,4 +17,4 @@ Formatos de aprendizagem:
 3. Revisões
 4. Integrar diferentes conhecimentos
 5. Pequenos blocos de informação
-6. Modelos de aprendizagem diferente combinados
+6. Modelos de aprendizagem diferentes combinados
